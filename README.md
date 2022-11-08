@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GebekovAS
+- 👀 I’m interested in C#, Unity
+- 🌱 I’m currently learning Unity
+- 📫 gebekovas@mail.ru
