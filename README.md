@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GebekovAS
-- 👀 I’m interested in C#, Unity
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in C#, Unity, .NET MAUI
+- 🌱 I’m currently learning .NET MAUI
 - 📫 gebekovas@mail.ru
